@@ -42,5 +42,16 @@
             "is-physical" : false,
             "uwu" : "this is a test",
             "image" : "https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDg2NzA2ODYxNzkx/john_adams.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "Obama",
+            "description" : "The Famous Minecraft Speedrunner",
+            "currency" : "INR",
+            "price_string" : "₹500",
+            "price_number" : 500,
+            "is-physical" : false,
+            "uwu" : "this is a test",
+            "image" : "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTE4MDAzNDEwNzg5ODI4MTEw/barack-obama-12782369-1-402.jpg"
         }
 ]
