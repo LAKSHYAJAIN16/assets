@@ -35,7 +35,7 @@
         {
             "id" : 4,
             "name" : "John Adams",
-            "description" : "And then there is John Adams. He is dead",
+            "description" : "And then there's John Adams. He's dead",
             "currency" : "INR",
             "price_string" : "₹500",
             "price_number" : 500,
