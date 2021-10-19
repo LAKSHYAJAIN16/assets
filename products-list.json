@@ -4,7 +4,7 @@
     [
         {
             "id" : 1,
-            "name" : "Harry Potter",
+            "Name" : "Harry Potter",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
@@ -15,7 +15,7 @@
         },
         {
             "id" : 2,
-            "name" : "Percy Jackson",
+            "Name" : "Percy Jackson",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
@@ -26,7 +26,7 @@
         },
         {
             "id" : 3,
-            "name" : "IDK Man?",
+            "Name" : "IDK Man?",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
