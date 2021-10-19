@@ -1,10 +1,7 @@
-{
-    "company-name" : "Scriptum",
-    "products" : 
-    [
+[
         {
             "id" : 1,
-            "Name" : "Harry Potter",
+            "name" : "Harry Potter",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
@@ -15,7 +12,7 @@
         },
         {
             "id" : 2,
-            "Name" : "Percy Jackson",
+            "name" : "Percy Jackson",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
@@ -26,7 +23,7 @@
         },
         {
             "id" : 3,
-            "Name" : "IDK Man?",
+            "name" : "IDK Man?",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
@@ -35,5 +32,4 @@
             "uwu" : "this is a test",
             "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
         }
-    ]
-}
+]
