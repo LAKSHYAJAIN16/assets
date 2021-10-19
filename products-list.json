@@ -19,17 +19,17 @@
             "price_number" : 500,
             "is-physical" : false,
             "uwu" : "this is a test",
-            "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
+            "image" : "https://upload.wikimedia.org/wikipedia/en/d/db/Percy_Jackson_Portrait.jpg"
         },
         {
             "id" : 3,
-            "name" : "IDK Man?",
+            "name" : "Technoblade",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price_string" : "₹500",
             "price_number" : 500,
             "is-physical" : false,
             "uwu" : "this is a test",
-            "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
+            "image" : "https://yt3.ggpht.com/ytc/AKedOLTlZykMeSa4ZSCpYFyW9rrRN6yABkCfatBHrwGspA=s900-c-k-c0x00ffffff-no-rj"
         }
 ]
