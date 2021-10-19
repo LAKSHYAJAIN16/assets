@@ -4,7 +4,7 @@
     [
         {
             "id" : 1,
-            "Name" : "Harry Potter",
+            "name" : "Harry Potter",
             "description" : "Best Book Ever",
             "currency" : "INR",
             "price-string" : "₹500",
