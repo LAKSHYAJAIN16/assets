@@ -7,9 +7,10 @@
             "name" : "Harry Potter",
             "description" : "Best Book Ever",
             "currency" : "INR",
-            "price-string" : "₹500",
-            "price-number" : 500,
+            "price_string" : "₹500",
+            "price_number" : 500,
             "is-physical" : false,
+            "uwu" : "this is a test",
             "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
         },
         {
@@ -17,9 +18,10 @@
             "name" : "Percy Jackson",
             "description" : "Best Book Ever",
             "currency" : "INR",
-            "price-string" : "₹500",
-            "price-number" : 500,
+            "price_string" : "₹500",
+            "price_number" : 500,
             "is-physical" : false,
+            "uwu" : "this is a test",
             "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
         },
         {
@@ -27,9 +29,10 @@
             "name" : "IDK Man?",
             "description" : "Best Book Ever",
             "currency" : "INR",
-            "price-string" : "₹500",
-            "price-number" : 500,
+            "price_string" : "₹500",
+            "price_number" : 500,
             "is-physical" : false,
+            "uwu" : "this is a test",
             "image" : "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
         }
     ]
