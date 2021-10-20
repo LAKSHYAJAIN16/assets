@@ -64,5 +64,16 @@
             "is-physical" : false,
             "uwu" : "this is a test",
             "image" : "https://yt3.ggpht.com/ytc/AKedOLSDg3Vb3T9_xPMlqAt31DVnCHNK830OVrbG51_E=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "id" : 7,
+            "name" : "Canada",
+            "description" : "Literally Canada for ₹500",
+            "currency" : "INR",
+            "price_string" : "₹500",
+            "price_number" : 500,
+            "is-physical" : false,
+            "uwu" : "this is a test",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png"
         }
 ]
