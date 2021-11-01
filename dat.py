@@ -1,2 +1,3 @@
 def dat():
-  return 0
+  print("dat")
+  return "dat"
