@@ -4,3 +4,4 @@
 *.rb linguist-language=Ruby
 *.pl linguist-language=Perl
 *.swift linguist-language=Swift
+*.R linguist-language=R
