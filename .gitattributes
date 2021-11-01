@@ -2,3 +2,4 @@
 *.go linguist-language=Go
 *.java linguist-language=Java
 *.rb linguist-language=Ruby
+*.pl linguist-language=Perl
