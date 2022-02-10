@@ -1,2 +1,12 @@
-SELECT WHERE QUERY
-PATH 
+// Imported from Package
+^ w = WHERE
+^ s = SELECT
+^ del = DELETE
+^ ins = INSERT
+^ it = INTO
+^ c = CREATE
+^ d = DATABASE
+^ t = TABLE
+^ a = ALTER
+^ dr = DROP
+^ i = INDEX
