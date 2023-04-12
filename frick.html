@@ -1,0 +1,46 @@
+<div id="thediv">yooo</div>
+<div id="imagediv">image here</div>
+
+<script src="https://cdn.rawgit.com/naptha/tesseract.js/1.0.10/dist/tesseract.js"></script>
+<script>
+  var base64 = "";
+  var output = "";
+  function resetImage() {
+    base64 = "";
+  }
+  function addImageData(data) {
+    base64 = base64 + data;
+  }
+  function writeResult(text) {
+    output = output + "<br/>" + text;
+    document.getElementById("thediv").innerHTML = output;
+  }
+
+  function run(width, height) {
+    width = 500;
+    height = 500;
+    document.getElementById("imagediv").innerHTML =
+      "<img id='theimage' src='" +
+      base64 +
+      "' width=" +
+      width +
+      " height=" +
+      height +
+      "/>";
+
+    setTimeout(function () {
+      var theimage = document.getElementById("theimage");
+      writeResult("loading: " + theimage);
+      Tesseract.recognize(theimage)
+        .progress(function (p) {
+          writeResult("progress " + JSON.stringify(p));
+        })
+        .catch(function (e) {
+          writeResult("error " + JSON.stringify(e));
+        })
+        .then(function (result) {
+          writeResult("result " + JSON.stringify(result));
+        });
+    }, 500);
+  }
+</script>
